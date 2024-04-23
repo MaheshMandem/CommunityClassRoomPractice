@@ -1,2 +1,2 @@
-# adding new repo
--- Adding new content 
+# adding a new repo
+-- Added new content 
